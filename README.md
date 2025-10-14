@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<img src="Nike%20Product%20Card/assets/images/logo.svg" alt="Nike Product Card Logo" width="100" />
+<img src="Nike%20Product%20Card/assets/images/logo.svg" alt="Nike Product Card Logo" width="200" />
 
 ## 👟 Nike Product Card  
 A stylish and modern **Nike Product Card UI** built with HTML, CSS, and JavaScript.  
