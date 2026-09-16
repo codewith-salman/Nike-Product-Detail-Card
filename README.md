@@ -80,7 +80,6 @@ Ideal for:
 - Modern typography and branding
 - Minimal and professional interface
 - Interactive product-focused design
-- Lightweight and easy to customize
 - Suitable for eCommerce product pages
 
 ---
