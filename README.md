@@ -76,7 +76,6 @@ Ideal for:
 ## ✨ Features
 
 - Fully responsive product card layout
-- Clean and modern product presentation
 - Smooth hover and transition effects
 - Modern typography and branding
 - Minimal and professional interface
