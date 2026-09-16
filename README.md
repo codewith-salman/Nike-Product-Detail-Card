@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Nike%20Product%20Card/assets/images/logo.svg" alt="Nike Product Card Logo" width="120"/>
+<img src="Nike%20Product%20Card/assets/images/logo.svg" alt="Nike Product Card Logo" width="150"/>
 
 <br />
 <br />
@@ -71,8 +71,6 @@ Ideal for:
 - Product galleries
 - Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -86,8 +84,6 @@ Ideal for:
 - Lightweight and easy to customize
 - Suitable for eCommerce product pages
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -97,8 +93,6 @@ This project is built using:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
